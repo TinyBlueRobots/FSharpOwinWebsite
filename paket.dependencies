@@ -1,0 +1,11 @@
+source https://www.nuget.org/api/v2
+framework net452
+nuget Handlebars.NET
+nuget Microsoft.Owin
+nuget Microsoft.Owin.Host.SystemWeb
+nuget Microsoft.Owin.SelfHost
+
+group Build
+source https://www.nuget.org/api/v2
+
+nuget FSharp.Core

@@ -1,0 +1,8 @@
+.paket/paket.exe
+.paket/paket.targets
+paket-files
+packages
+node_modules
+build
+src/content
+deploy
